@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.206e19a1.css",
-    "main.js": "/rohitchaudhary.github.io/static/js/main.f34a4565.js",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.66f7faa5.css",
+    "main.js": "/rohitchaudhary.github.io/static/js/main.2d66828d.js",
     "index.html": "/rohitchaudhary.github.io/index.html",
-    "main.206e19a1.css.map": "/rohitchaudhary.github.io/static/css/main.206e19a1.css.map",
-    "main.f34a4565.js.map": "/rohitchaudhary.github.io/static/js/main.f34a4565.js.map"
+    "main.66f7faa5.css.map": "/rohitchaudhary.github.io/static/css/main.66f7faa5.css.map",
+    "main.2d66828d.js.map": "/rohitchaudhary.github.io/static/js/main.2d66828d.js.map"
   },
   "entrypoints": [
-    "static/css/main.206e19a1.css",
-    "static/js/main.f34a4565.js"
+    "static/css/main.66f7faa5.css",
+    "static/js/main.2d66828d.js"
   ]
 }
