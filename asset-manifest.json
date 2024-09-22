@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.6ac66d4e.css",
-    "main.js": "/rohitchaudhary.github.io/static/js/main.7878e147.js",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.2bb3fa6f.css",
+    "main.js": "/rohitchaudhary.github.io/static/js/main.36755d0f.js",
+    "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.6ac66d4e.css.map": "/rohitchaudhary.github.io/static/css/main.6ac66d4e.css.map",
-    "main.7878e147.js.map": "/rohitchaudhary.github.io/static/js/main.7878e147.js.map"
+    "main.2bb3fa6f.css.map": "/rohitchaudhary.github.io/static/css/main.2bb3fa6f.css.map",
+    "main.36755d0f.js.map": "/rohitchaudhary.github.io/static/js/main.36755d0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac66d4e.css",
-    "static/js/main.7878e147.js"
+    "static/css/main.2bb3fa6f.css",
+    "static/js/main.36755d0f.js"
   ]
 }
