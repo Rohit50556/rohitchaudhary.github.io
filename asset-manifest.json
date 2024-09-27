@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.d62ff935.css",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.3da9f42e.css",
     "main.js": "/rohitchaudhary.github.io/static/js/main.7fbb16d9.js",
     "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
     "static/media/responsive-design.svg": "/rohitchaudhary.github.io/static/media/responsive-design.2de4b0f2486dff73c1d4c1b315848b50.svg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.d62ff935.css.map": "/rohitchaudhary.github.io/static/css/main.d62ff935.css.map",
+    "main.3da9f42e.css.map": "/rohitchaudhary.github.io/static/css/main.3da9f42e.css.map",
     "main.7fbb16d9.js.map": "/rohitchaudhary.github.io/static/js/main.7fbb16d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d62ff935.css",
+    "static/css/main.3da9f42e.css",
     "static/js/main.7fbb16d9.js"
   ]
 }
