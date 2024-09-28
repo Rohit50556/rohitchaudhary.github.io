@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.8914cd53.css",
-    "main.js": "/rohitchaudhary.github.io/static/js/main.7fbb16d9.js",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.37b4a031.css",
+    "main.js": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js",
     "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
+    "static/media/hospital.svg": "/rohitchaudhary.github.io/static/media/hospital.18a6226aedf0800bc1857e987378efed.svg",
+    "static/media/online-store.svg": "/rohitchaudhary.github.io/static/media/online-store.634e29c2859f40619cef966190732ff6.svg",
     "static/media/responsive-design.svg": "/rohitchaudhary.github.io/static/media/responsive-design.2de4b0f2486dff73c1d4c1b315848b50.svg",
     "static/media/custom-web-design.svg": "/rohitchaudhary.github.io/static/media/custom-web-design.c51cb049d90bccef8379664527bc9ae6.svg",
+    "static/media/ui-ux-design.svg": "/rohitchaudhary.github.io/static/media/ui-ux-design.6582c8f2ee6c05bf57dc015954663208.svg",
+    "static/media/education.svg": "/rohitchaudhary.github.io/static/media/education.d08b3662372255e7b8a1fef8808f1b07.svg",
+    "static/media/web_development.svg": "/rohitchaudhary.github.io/static/media/web_development.c1c196a7132a0a3dd5bb420f549cc3e2.svg",
     "static/media/web-security.svg": "/rohitchaudhary.github.io/static/media/web-security.ed583f42d59b1e063d8da4f28ad5c195.svg",
+    "static/media/real-estate.svg": "/rohitchaudhary.github.io/static/media/real-estate.b7b978d5db361ae17f6cd75d502ceb55.svg",
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.8914cd53.css.map": "/rohitchaudhary.github.io/static/css/main.8914cd53.css.map",
-    "main.7fbb16d9.js.map": "/rohitchaudhary.github.io/static/js/main.7fbb16d9.js.map"
+    "main.37b4a031.css.map": "/rohitchaudhary.github.io/static/css/main.37b4a031.css.map",
+    "main.d5d25a66.js.map": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js.map"
   },
   "entrypoints": [
-    "static/css/main.8914cd53.css",
-    "static/js/main.7fbb16d9.js"
+    "static/css/main.37b4a031.css",
+    "static/js/main.d5d25a66.js"
   ]
 }
