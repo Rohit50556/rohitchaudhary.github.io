@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.37b4a031.css",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.46732b48.css",
     "main.js": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js",
     "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
     "static/media/hospital.svg": "/rohitchaudhary.github.io/static/media/hospital.18a6226aedf0800bc1857e987378efed.svg",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.37b4a031.css.map": "/rohitchaudhary.github.io/static/css/main.37b4a031.css.map",
+    "main.46732b48.css.map": "/rohitchaudhary.github.io/static/css/main.46732b48.css.map",
     "main.d5d25a66.js.map": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js.map"
   },
   "entrypoints": [
-    "static/css/main.37b4a031.css",
+    "static/css/main.46732b48.css",
     "static/js/main.d5d25a66.js"
   ]
 }
