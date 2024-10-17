@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.46732b48.css",
-    "main.js": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.a7c51c53.css",
+    "main.js": "/rohitchaudhary.github.io/static/js/main.2a4f32bd.js",
+    "static/media/web-design.png": "/rohitchaudhary.github.io/static/media/web-design.4a45feab58e5e9175b6d.png",
     "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
-    "static/media/hospital.svg": "/rohitchaudhary.github.io/static/media/hospital.18a6226aedf0800bc1857e987378efed.svg",
-    "static/media/online-store.svg": "/rohitchaudhary.github.io/static/media/online-store.634e29c2859f40619cef966190732ff6.svg",
-    "static/media/responsive-design.svg": "/rohitchaudhary.github.io/static/media/responsive-design.2de4b0f2486dff73c1d4c1b315848b50.svg",
-    "static/media/custom-web-design.svg": "/rohitchaudhary.github.io/static/media/custom-web-design.c51cb049d90bccef8379664527bc9ae6.svg",
-    "static/media/ui-ux-design.svg": "/rohitchaudhary.github.io/static/media/ui-ux-design.6582c8f2ee6c05bf57dc015954663208.svg",
-    "static/media/education.svg": "/rohitchaudhary.github.io/static/media/education.d08b3662372255e7b8a1fef8808f1b07.svg",
-    "static/media/web_development.svg": "/rohitchaudhary.github.io/static/media/web_development.c1c196a7132a0a3dd5bb420f549cc3e2.svg",
-    "static/media/web-security.svg": "/rohitchaudhary.github.io/static/media/web-security.ed583f42d59b1e063d8da4f28ad5c195.svg",
-    "static/media/real-estate.svg": "/rohitchaudhary.github.io/static/media/real-estate.b7b978d5db361ae17f6cd75d502ceb55.svg",
+    "static/media/hospital.svg": "/rohitchaudhary.github.io/static/media/hospital.4ed778dbd449316c9c24d1cb81602f66.svg",
+    "static/media/online-store.svg": "/rohitchaudhary.github.io/static/media/online-store.21aee2583e6af63a3792d991e15d699c.svg",
+    "static/media/responsive-design.svg": "/rohitchaudhary.github.io/static/media/responsive-design.027fabd34a029029ad989bef0c6741c1.svg",
+    "static/media/custom-web-design.svg": "/rohitchaudhary.github.io/static/media/custom-web-design.35f83fe8c5c122134e5b9c6d01302fe7.svg",
+    "static/media/ui-ux-design.svg": "/rohitchaudhary.github.io/static/media/ui-ux-design.4b61a01da6c2046e935d6a841acee78c.svg",
+    "static/media/education.svg": "/rohitchaudhary.github.io/static/media/education.3157987cfb982c9898812af70027bcd3.svg",
+    "static/media/web_development.svg": "/rohitchaudhary.github.io/static/media/web_development.b0575c2cc6d1646ef303a1be44ea2ba8.svg",
+    "static/media/web-security.svg": "/rohitchaudhary.github.io/static/media/web-security.dd5f04c77f619551d5de305fe62984fd.svg",
+    "static/media/real-estate.svg": "/rohitchaudhary.github.io/static/media/real-estate.d86bcab2f087c0eb0a60308eddd97964.svg",
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.46732b48.css.map": "/rohitchaudhary.github.io/static/css/main.46732b48.css.map",
-    "main.d5d25a66.js.map": "/rohitchaudhary.github.io/static/js/main.d5d25a66.js.map"
+    "main.a7c51c53.css.map": "/rohitchaudhary.github.io/static/css/main.a7c51c53.css.map",
+    "main.2a4f32bd.js.map": "/rohitchaudhary.github.io/static/js/main.2a4f32bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.46732b48.css",
-    "static/js/main.d5d25a66.js"
+    "static/css/main.a7c51c53.css",
+    "static/js/main.2a4f32bd.js"
   ]
 }
