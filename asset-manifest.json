@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rohitchaudhary.github.io/static/css/main.a7c51c53.css",
-    "main.js": "/rohitchaudhary.github.io/static/js/main.2a4f32bd.js",
+    "main.css": "/rohitchaudhary.github.io/static/css/main.e2431c57.css",
+    "main.js": "/rohitchaudhary.github.io/static/js/main.8155a470.js",
     "static/media/web-design.png": "/rohitchaudhary.github.io/static/media/web-design.4a45feab58e5e9175b6d.png",
     "static/media/website-setup.png": "/rohitchaudhary.github.io/static/media/website-setup.941fd471f67fc583abd0.png",
     "static/media/hospital.svg": "/rohitchaudhary.github.io/static/media/hospital.4ed778dbd449316c9c24d1cb81602f66.svg",
@@ -16,11 +16,12 @@
     "static/media/logo.svg": "/rohitchaudhary.github.io/static/media/logo.d6d20132aa88ef7a136ef3118aae752d.svg",
     "index.html": "/rohitchaudhary.github.io/index.html",
     "static/media/hamburger.svg": "/rohitchaudhary.github.io/static/media/hamburger.de5f402063312b3a889a7ce4bf4fdb2b.svg",
-    "main.a7c51c53.css.map": "/rohitchaudhary.github.io/static/css/main.a7c51c53.css.map",
-    "main.2a4f32bd.js.map": "/rohitchaudhary.github.io/static/js/main.2a4f32bd.js.map"
+    "static/media/rating.svg": "/rohitchaudhary.github.io/static/media/rating.93a7b1d1195ca2ec22a8b6bc20353b26.svg",
+    "main.e2431c57.css.map": "/rohitchaudhary.github.io/static/css/main.e2431c57.css.map",
+    "main.8155a470.js.map": "/rohitchaudhary.github.io/static/js/main.8155a470.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7c51c53.css",
-    "static/js/main.2a4f32bd.js"
+    "static/css/main.e2431c57.css",
+    "static/js/main.8155a470.js"
   ]
 }
